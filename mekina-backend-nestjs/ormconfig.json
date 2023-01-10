@@ -21,7 +21,7 @@
     "port": 3306,
     "username": "root",
     "password": "root",
-    "database": "yourcar",
+    "database": "mekina",
     "entities": ["dist/**/entities/*{.ts,.js}"],
     "synchronize": true,
     "migrations": ["dist/migrations/*{.ts,.js}"],
